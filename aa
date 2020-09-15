@@ -1,0 +1,67 @@
+body{
+    direction: rtl;
+  font-family:font-najiri;
+}
+
+
+.mb20 {
+    margin-bottom: 20px;
+}
+
+h3 {
+    border-bottom: 3px solid #ffb925;
+    color: #fff;
+    height: 36px;
+    line-height: 35px;
+    padding: 0 10px;
+}
+
+h3 {
+    background-color: #333;
+}
+
+h3 a {
+    color: #fff;
+}
+a {
+    color: #151515;
+    text-decoration: none;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%!important;
+}
+
+.topScorersTableWidget tr {
+    border-bottom: 0!important;
+}
+.topScorersTableWidget td:first-child, .topScorersTableWidget th:first-child {
+    text-align: right;
+    padding-right: 10px;
+}
+
+.side_transfer th, .topScorersTableWidget th {
+    background-color: #fb0;
+    color: #333;
+}
+
+th {
+    padding: 5px;
+    background-color: #272727;
+    color: #fff;
+    border-bottom: 1px solid #fff;
+}
+
+#footer td, #header td, .cellCenter td, .mainNav a {
+    text-align: center;
+}
+
+select, td {
+    vertical-align: middle;
+    padding: 3px 2px;
+}
+
+td, thead td {
+    font-weight: 700;
+}
